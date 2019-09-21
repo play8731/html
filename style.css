@@ -1,0 +1,15 @@
+/*CSS選擇器*/
+        
+        /*標籤名稱選擇器*/
+        span{font-weight:bold;}
+        body{background-color: #cccccc;font-famliy:"微軟正黑體",'新細明體'}
+
+        /*ID選擇器*/
+        #del{text-decoration: line-through;}
+        
+        /*class選擇器(特別重要)*/
+        .all{background-image: "pic1.png"}
+        .title{font-size:24px; font-weight:bold}
+        .content{height:auto;width:150px; margin-top:10px; border:5px solid violet; padding:5px}
+        .keyword{color:blue} 
+        .underline{text-decoration: underline;}
